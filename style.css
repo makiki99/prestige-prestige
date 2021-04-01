@@ -1,0 +1,12 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+table {
+	width: inherit;
+}
+
+.links {
+	padding: 10px 0px;
+}
